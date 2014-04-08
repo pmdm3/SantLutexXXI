@@ -25,38 +25,37 @@ public final class R {
     }
     public static final class drawable {
         public static final int apartament=0x7f020000;
-        public static final int castell=0x7f020001;
-        public static final int entrar=0x7f020002;
-        public static final int ferfoto=0x7f020003;
-        public static final int fondo=0x7f020004;
-        public static final int grabar=0x7f020005;
-        public static final int ic_launcher_bck=0x7f020006;
-        public static final int ima0=0x7f020007;
-        public static final int ima1=0x7f020008;
-        public static final int ima10=0x7f020009;
-        public static final int ima11=0x7f02000a;
-        public static final int ima12=0x7f02000b;
-        public static final int ima13=0x7f02000c;
-        public static final int ima14=0x7f02000d;
-        public static final int ima15=0x7f02000e;
-        public static final int ima16=0x7f02000f;
-        public static final int ima17=0x7f020010;
-        public static final int ima18=0x7f020011;
-        public static final int ima19=0x7f020012;
-        public static final int ima2=0x7f020013;
-        public static final int ima20=0x7f020014;
-        public static final int ima3=0x7f020015;
-        public static final int ima4=0x7f020016;
-        public static final int ima5=0x7f020017;
-        public static final int ima6=0x7f020018;
-        public static final int ima7=0x7f020019;
-        public static final int ima8=0x7f02001a;
-        public static final int ima9=0x7f02001b;
-        public static final int logo=0x7f02001c;
-        public static final int photos=0x7f02001d;
-        public static final int planell=0x7f02001e;
-        public static final int video=0x7f02001f;
-        public static final int vista=0x7f020020;
+        public static final int entrar=0x7f020001;
+        public static final int ferfoto=0x7f020002;
+        public static final int fondo=0x7f020003;
+        public static final int grabar=0x7f020004;
+        public static final int ic_launcher_bck=0x7f020005;
+        public static final int ima0=0x7f020006;
+        public static final int ima1=0x7f020007;
+        public static final int ima10=0x7f020008;
+        public static final int ima11=0x7f020009;
+        public static final int ima12=0x7f02000a;
+        public static final int ima13=0x7f02000b;
+        public static final int ima14=0x7f02000c;
+        public static final int ima15=0x7f02000d;
+        public static final int ima16=0x7f02000e;
+        public static final int ima17=0x7f02000f;
+        public static final int ima18=0x7f020010;
+        public static final int ima19=0x7f020011;
+        public static final int ima2=0x7f020012;
+        public static final int ima20=0x7f020013;
+        public static final int ima3=0x7f020014;
+        public static final int ima4=0x7f020015;
+        public static final int ima5=0x7f020016;
+        public static final int ima6=0x7f020017;
+        public static final int ima7=0x7f020018;
+        public static final int ima8=0x7f020019;
+        public static final int ima9=0x7f02001a;
+        public static final int logo=0x7f02001b;
+        public static final int photos=0x7f02001c;
+        public static final int planell=0x7f02001d;
+        public static final int video=0x7f02001e;
+        public static final int vista=0x7f02001f;
     }
     public static final class id {
         public static final int LinearLayout1=0x7f0a0006;
@@ -111,10 +110,8 @@ public final class R {
         public static final int mostrar_video=0x7f090006;
     }
     public static final class raw {
-        public static final int apartament=0x7f040000;
-        public static final int blowing=0x7f040001;
-        public static final int castell=0x7f040002;
-        public static final int video=0x7f040003;
+        public static final int blowing=0x7f040000;
+        public static final int video=0x7f040001;
     }
     public static final class string {
         public static final int action_settings=0x7f060001;
